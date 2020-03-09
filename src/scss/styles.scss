@@ -1,0 +1,13 @@
+// Variable Overrides 
+$theme-colors: (
+  "primary": #d95700
+);
+$body-bg: #ededed;
+//bootstrap sass files
+@import "node_modules/bootstrap/scss/bootstrap";
+
+
+.jumbotron{
+  background-color: !important;
+  border-top:
+}
